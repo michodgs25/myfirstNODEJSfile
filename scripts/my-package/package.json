@@ -1,0 +1,9 @@
+{
+    "name": "my-package",
+    "version": "1.0.0",
+    "description": "My sample Node package",
+    "main": "index.js",
+    "scripts": {
+        "hello": "echo \"Why hello friend!\""
+    }
+}
