@@ -5,5 +5,8 @@
     "main": "index.js",
     "scripts": {
         "hello": "node hello.js"
+    },
+    "dependencies": {
+        "cowsay": "^1.4.0"
     }
 }
