@@ -4,6 +4,6 @@
     "description": "My sample Node package",
     "main": "index.js",
     "scripts": {
-        "hello": "echo \"Why hello friend!\""
+        "hello": "node hello.js"
     }
 }
