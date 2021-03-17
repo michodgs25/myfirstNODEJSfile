@@ -2,4 +2,4 @@
 
 ### Purpose
 
-The purpose of this repository is to explore node.JS capabilities.
+The purpose of this repository is to explore node.JS capabilities in conjunction with JSON and NPM.
