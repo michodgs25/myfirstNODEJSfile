@@ -1,0 +1,22 @@
+{
+  "name": "myfirstnodejsfile-1",
+  "version": "1.0.0",
+  "description": "![Node.JS Logo](https://miro.medium.com/max/3200/1*xdo0UBpyszvD7-7EH4TkIA.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michodgs25/myfirstNODEJSfile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michodgs25/myfirstNODEJSfile/issues"
+  },
+  "homepage": "https://github.com/michodgs25/myfirstNODEJSfile#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
